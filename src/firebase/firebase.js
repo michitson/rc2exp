@@ -7,11 +7,7 @@ var config = {
   projectId:process.env.FIREBASE_PROJECT_ID,
   storageBucket: process.env.FIREBASE_STORAGE_BUCKET,
   messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID
-};
-
-console.log('database URL  izzz', process.env.FIREBASE_DATABASE_URL)
-console.log('-------------xxxxxxxx-------------------------------')
-console.log('config izzz', config)
+}
 
 firebase.initializeApp(config);
 

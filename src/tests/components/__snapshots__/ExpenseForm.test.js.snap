@@ -972,13 +972,13 @@ ShallowWrapper {
             onChange={[Function]}
             placeholder="Description"
             type="text"
-            value="rent"
+            value="Rent"
         />
         <input
             onChange={[Function]}
             placeholder="Amount"
             type="text"
-            value={195}
+            value={1095}
         />
         <SingleDatePicker
             anchorDirection="left"
@@ -1073,13 +1073,13 @@ ShallowWrapper {
                   onChange={[Function]}
                   placeholder="Description"
                   type="text"
-                  value="rent"
+                  value="Rent"
             />
             <input
                   onChange={[Function]}
                   placeholder="Amount"
                   type="text"
-                  value={195}
+                  value={1095}
             />
             <SingleDatePicker
                   anchorDirection="left"
@@ -1173,10 +1173,10 @@ ShallowWrapper {
       "_currentElement": <ExpenseForm
         expense={
                 Object {
-                        "amount": 19500,
+                        "amount": 109500,
                         "createdAt": -345600000,
-                        "description": "rent",
-                        "id": 2,
+                        "description": "Rent",
+                        "id": "2",
                         "note": "",
                       }
         }
@@ -1195,19 +1195,19 @@ ShallowWrapper {
         "onSubmit": [Function],
         "props": Object {
           "expense": Object {
-            "amount": 19500,
+            "amount": 109500,
             "createdAt": -345600000,
-            "description": "rent",
-            "id": 2,
+            "description": "Rent",
+            "id": "2",
             "note": "",
           },
         },
         "refs": Object {},
         "state": Object {
-          "amount": 195,
+          "amount": 1095,
           "calendarFocused": false,
           "createdAt": "1969-12-28T00:00:00.000Z",
-          "description": "rent",
+          "description": "Rent",
           "error": "",
           "note": "",
         },
@@ -1239,13 +1239,13 @@ ShallowWrapper {
                               onChange={[Function]}
                               placeholder="Description"
                               type="text"
-                              value="rent"
+                              value="Rent"
                     />
                     <input
                               onChange={[Function]}
                               placeholder="Amount"
                               type="text"
-                              value={195}
+                              value={1095}
                     />
                     <SingleDatePicker
                               anchorDirection="left"
@@ -1340,13 +1340,13 @@ ShallowWrapper {
                               onChange={[Function]}
                               placeholder="Description"
                               type="text"
-                              value="rent"
+                              value="Rent"
                     />
                     <input
                               onChange={[Function]}
                               placeholder="Amount"
                               type="text"
-                              value={195}
+                              value={1095}
                     />
                     <SingleDatePicker
                               anchorDirection="left"
@@ -1444,10 +1444,10 @@ ShallowWrapper {
   "unrendered": <ExpenseForm
     expense={
         Object {
-            "amount": 19500,
+            "amount": 109500,
             "createdAt": -345600000,
-            "description": "rent",
-            "id": 2,
+            "description": "Rent",
+            "id": "2",
             "note": "",
           }
     }

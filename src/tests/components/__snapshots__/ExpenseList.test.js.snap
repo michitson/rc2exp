@@ -12,22 +12,22 @@ ShallowWrapper {
     <ExpenseListItem
         amount={195}
         createdAt={0}
-        description="gum"
-        id={1}
+        description="Gum"
+        id="1"
         note=""
     />
     <ExpenseListItem
-        amount={19500}
+        amount={109500}
         createdAt={-345600000}
-        description="rent"
-        id={2}
+        description="Rent"
+        id="2"
         note=""
     />
     <ExpenseListItem
         amount={4500}
         createdAt={345600000}
-        description="credit card"
-        id={3}
+        description="Credit Card"
+        id="3"
         note=""
     />
 </div>,
@@ -36,22 +36,22 @@ ShallowWrapper {
       <ExpenseListItem
             amount={195}
             createdAt={0}
-            description="gum"
-            id={1}
+            description="Gum"
+            id="1"
             note=""
       />
       <ExpenseListItem
-            amount={19500}
+            amount={109500}
             createdAt={-345600000}
-            description="rent"
-            id={2}
+            description="Rent"
+            id="2"
             note=""
       />
       <ExpenseListItem
             amount={4500}
             createdAt={345600000}
-            description="credit card"
-            id={3}
+            description="Credit Card"
+            id="3"
             note=""
       />
 </div>,
@@ -68,22 +68,22 @@ ShallowWrapper {
                         Object {
                           "amount": 195,
                           "createdAt": 0,
-                          "description": "gum",
-                          "id": 1,
+                          "description": "Gum",
+                          "id": "1",
                           "note": "",
                         },
                         Object {
-                          "amount": 19500,
+                          "amount": 109500,
                           "createdAt": -345600000,
-                          "description": "rent",
-                          "id": 2,
+                          "description": "Rent",
+                          "id": "2",
                           "note": "",
                         },
                         Object {
                           "amount": 4500,
                           "createdAt": 345600000,
-                          "description": "credit card",
-                          "id": 3,
+                          "description": "Credit Card",
+                          "id": "3",
                           "note": "",
                         },
                       ]
@@ -100,22 +100,22 @@ ShallowWrapper {
             Object {
               "amount": 195,
               "createdAt": 0,
-              "description": "gum",
-              "id": 1,
+              "description": "Gum",
+              "id": "1",
               "note": "",
             },
             Object {
-              "amount": 19500,
+              "amount": 109500,
               "createdAt": -345600000,
-              "description": "rent",
-              "id": 2,
+              "description": "Rent",
+              "id": "2",
               "note": "",
             },
             Object {
               "amount": 4500,
               "createdAt": 345600000,
-              "description": "credit card",
-              "id": 3,
+              "description": "Credit Card",
+              "id": "3",
               "note": "",
             },
           ],
@@ -144,22 +144,22 @@ ShallowWrapper {
           <ExpenseListItem
                     amount={195}
                     createdAt={0}
-                    description="gum"
-                    id={1}
+                    description="Gum"
+                    id="1"
                     note=""
           />
           <ExpenseListItem
-                    amount={19500}
+                    amount={109500}
                     createdAt={-345600000}
-                    description="rent"
-                    id={2}
+                    description="Rent"
+                    id="2"
                     note=""
           />
           <ExpenseListItem
                     amount={4500}
                     createdAt={345600000}
-                    description="credit card"
-                    id={3}
+                    description="Credit Card"
+                    id="3"
                     note=""
           />
 </div>,
@@ -168,22 +168,22 @@ ShallowWrapper {
           <ExpenseListItem
                     amount={195}
                     createdAt={0}
-                    description="gum"
-                    id={1}
+                    description="Gum"
+                    id="1"
                     note=""
           />
           <ExpenseListItem
-                    amount={19500}
+                    amount={109500}
                     createdAt={-345600000}
-                    description="rent"
-                    id={2}
+                    description="Rent"
+                    id="2"
                     note=""
           />
           <ExpenseListItem
                     amount={4500}
                     createdAt={345600000}
-                    description="credit card"
-                    id={3}
+                    description="Credit Card"
+                    id="3"
                     note=""
           />
 </div>,
@@ -204,22 +204,22 @@ ShallowWrapper {
             Object {
               "amount": 195,
               "createdAt": 0,
-              "description": "gum",
-              "id": 1,
+              "description": "Gum",
+              "id": "1",
               "note": "",
             },
             Object {
-              "amount": 19500,
+              "amount": 109500,
               "createdAt": -345600000,
-              "description": "rent",
-              "id": 2,
+              "description": "Rent",
+              "id": "2",
               "note": "",
             },
             Object {
               "amount": 4500,
               "createdAt": 345600000,
-              "description": "credit card",
-              "id": 3,
+              "description": "Credit Card",
+              "id": "3",
               "note": "",
             },
           ]

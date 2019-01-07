@@ -13,6 +13,6 @@ test ('should correctly add a single expense', () => {
 
 test ('should correctly add an array of expenses', () => {
   const res = selectExpensesTotal(expenses)
-  expect(res).toBe(24195)
+  expect(res).toBe(114195)
 })
 
