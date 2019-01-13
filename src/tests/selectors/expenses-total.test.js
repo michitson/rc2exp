@@ -15,4 +15,3 @@ test ('should correctly add an array of expenses', () => {
   const res = selectExpensesTotal(expenses)
   expect(res).toBe(114195)
 })
-

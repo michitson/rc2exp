@@ -70,7 +70,7 @@ ShallowWrapper {
                         "push": [Function],
                       }
         }
-        removeExpense={[Function]}
+        startRemoveExpense={[Function]}
 />,
       "_debugID": 1,
       "_hostContainerInfo": null,
@@ -92,7 +92,7 @@ ShallowWrapper {
           "history": Object {
             "push": [Function],
           },
-          "removeExpense": [Function],
+          "startRemoveExpense": [Function],
         },
         "refs": Object {},
         "state": null,
@@ -180,7 +180,7 @@ ShallowWrapper {
             "push": [Function],
           }
     }
-    removeExpense={[Function]}
+    startRemoveExpense={[Function]}
 />,
 }
 `;
