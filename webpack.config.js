@@ -10,7 +10,7 @@ module.exports = (env) => {
 
   process.env.NODE_ENV = process.env.NODE_ENV || 'development'
 
-  console.log('in webpack config - NODE_ENV is ...', process.env.NODE_ENV )
+  //console.log('in webpack config - NODE_ENV is ...', process.env.NODE_ENV )
   
   if (process.env.NODE_ENV === 'test') {
     require('dotenv').config({path: '.env.test'})
